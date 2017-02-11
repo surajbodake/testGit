@@ -1,0 +1,1 @@
+Hi, this is simple test file for checking the functionality of git.
