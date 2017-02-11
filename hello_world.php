@@ -1,3 +1,3 @@
 <?php
-echo 'Hello World using Php !!!';
+echo 'Hello World using Php and mysql!!!';
 ?>
